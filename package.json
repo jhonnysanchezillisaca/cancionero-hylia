@@ -1,7 +1,7 @@
 {
-  "name": "hylia",
+  "name": "cancionero",
   "version": "0.4.4",
-  "description": "A simple Eleventy starter kit to help you have a blog of your own",
+  "description": "Cancionero",
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^0.8.3",
@@ -31,7 +31,7 @@
     "sass:process": "npm run sass:tokens && sass src/scss/global.scss src/_includes/assets/css/global.css --style=compressed",
     "cms:precompile": "make-dir dist/admin && nunjucks-precompile src/_includes > dist/admin/templates.js -i '\\.(njk|css|svg)$'",
     "cms:bundle": "rollup --config",
-    "start": "concurrently 'npm run sass:process -- --watch' 'npm run cms:bundle -- --watch' 'chokidar \"src/_includes/**\" -c \"npm run cms:precompile\"' 'npm run serve'",
+    "start": "concurrently \"npm run sass:process -- --watch\" \"npm run cms:bundle -- --watch\" \"chokidar \"src/_includes/**\" -c \"npm run cms:precompile\"\" \"npm run serve\"",
     "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
     "production": "npm run sass:process && npm run cms:precompile && npm run cms:bundle && npx eleventy"
   },

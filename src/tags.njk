@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: Etiquetas
 pagination:
   data: collections
   size: 1
@@ -16,15 +16,15 @@ permalink: /tags/{{ tag }}/
 ---
 
 {% extends 'layouts/base.njk' %}
-{% set pageType = 'Tag Archive' %}
+{% set pageType = 'Etiquetas' %}
 
 {# Intro content #}
-{% set introHeading %}Posts filed under “{{ tag }}”{% endset %}
+{% set introHeading %}Canciones con etiqueta “{{ tag }}”{% endset %}
 {% set introHeadingLevel = '2' %}
 
 {# Post list content #}
 {% set postListHeadingLevel = '2' %}
-{% set postListHeading = 'Posts' %}
+{% set postListHeading = 'Canciones' %}
 {% set postListItems = collections[tag] %}
 
 {% block content %}
