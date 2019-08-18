@@ -20,29 +20,29 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
           - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
-          - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts"}
-          - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
+          - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Últimas canciones"}
+          - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "Ver todas las canciones"}
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: "generic_pages"
-    label: "Generic Pages"
-    folder: "src/pages"
-    slug: "{{slug}}"
-    preview_path: "pages/{{slug}}"
-    create: true
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/page.njk"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink Override", name: "permalink", widget: "string"}
-      - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
-      - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
-      - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "generic_pages"
+  #   label: "Generic Pages"
+  #   folder: "src/pages"
+  #   slug: "{{slug}}"
+  #   preview_path: "pages/{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/page.njk"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Permalink Override", name: "permalink", widget: "string"}
+  #     - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
+  #     - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+  #     - {label: "Social Image", name: "socialImage", widget: "image", required: false}
+  #     - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts"
-    label: "Posts"
+    label: "Canciones"
     folder: "src/posts"
     slug: "{{slug}}"
-    preview_path: "posts/{{slug}}"
+    preview_path: "cancion/{{slug}}"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
