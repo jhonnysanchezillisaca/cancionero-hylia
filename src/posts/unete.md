@@ -17,7 +17,7 @@ Salvaremos la naturaleza ://
 *Únete a este cambio, vamos a servir*  
 *Verás que con los grupos*  
 *Lograremos sonreir*  
-*Salta en las montañas, ríe vajo el mar*  
+*Salta en las montañas, ríe bajo el mar*  
 *Juega en la lluvia*  
 *Y con el viento echa a volar*  
   

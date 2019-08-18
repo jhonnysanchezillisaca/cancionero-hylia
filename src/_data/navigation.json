@@ -1,3 +1,14 @@
 {
-  "items": [  ]
+  "items": [
+    {
+      "text": "Versión PDF",
+      "url": "/documents/cancionero.pdf",
+      "external": false
+    },
+    {
+      "text": "Web encuentros",
+      "url": "https://www.encuentrosdejuventud.org/",
+      "external": true
+    }
+  ]
 }
