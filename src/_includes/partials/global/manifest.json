@@ -1,0 +1,7 @@
+{
+	"name": "Cancionero juvenil",
+	"short_name" : "Cancionero",
+	"theme_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
