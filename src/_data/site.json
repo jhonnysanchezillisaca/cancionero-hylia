@@ -1,11 +1,11 @@
 {
   "showThemeCredit": false,
-  "name": "Cancionero",
+  "name": "Cancionero juvenil",
   "shortDesc": "Web con letras de canciones",
-  "url": "https://encuentrosdejuventud.org/cancionero",
+  "url": "https://cancionero.encuentrosdejuventud.org",
   "authorEmail": "contacto@encuentrosdejuventud.org",
   "authorHandle": "",
-  "authorName": "",
+  "authorName": "Encuentros de juventud",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 20
 }
