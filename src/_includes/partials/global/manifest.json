@@ -12,6 +12,11 @@
             "src": "images/icon-64x64.png",
             "sizes": "64x64",
             "type": "image/png"
+		},
+        {
+            "src": "images/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
 		}
 	],
 	"theme_color": "#ffffff",
