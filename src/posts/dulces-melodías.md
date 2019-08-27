@@ -5,6 +5,8 @@ date: 2019-08-27T12:21:14.167Z
 tags:
   - proyectomedios
 ---
+[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+
 Oye,\
 esas dulces melodías\
 donde están las bellas voces\
