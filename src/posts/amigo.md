@@ -6,6 +6,8 @@ date: 2019-08-18T20:21:13.967Z
 tags:
   - proyectomedios
 ---
+[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+
 Cuando comprendes que la felicidad está en el servicio\
 Y descubres poderes que se encuentran dentro de ti\
 Te levantas a acompañar al que está a tu lado\
