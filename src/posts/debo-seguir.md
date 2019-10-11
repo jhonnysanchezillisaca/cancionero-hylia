@@ -5,6 +5,8 @@ date: 2019-08-18T21:31:25.612Z
 tags:
   - proyectomedios
 ---
+[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+
 En la mañana al despertar\
 Envuelto en la realidad\
 Las manecillas del reloj\
