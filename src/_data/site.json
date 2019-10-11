@@ -7,5 +7,6 @@
   "authorHandle": "",
   "authorName": "Encuentros de juventud",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 50
+  "maxPostsPerPage": 50,
+  "faviconPath": "/images/favicon.png" 
 }
