@@ -4,7 +4,6 @@ title: La luz del conocimiento
 date: 2019-12-22T20:05:53.439Z
 tags:
   - nuestravoz
-  - claridad
 ---
 Veo tantas cosas que no entiendo\
 quiero comprender a los demás\
