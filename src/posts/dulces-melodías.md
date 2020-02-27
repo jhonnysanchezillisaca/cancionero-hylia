@@ -5,7 +5,7 @@ date: 2019-08-27T12:21:14.167Z
 tags:
   - proyectomedios
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+Acordes: G, C, D.
 
 Oye,\
 esas dulces melodías\
@@ -56,3 +56,5 @@ Vamos,\
 a mirar la realidad \
 liberarnos de espejismos \
 que nos nublan la verdad.
+
+[Escucha y descarga todas las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)
