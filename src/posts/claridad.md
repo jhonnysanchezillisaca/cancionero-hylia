@@ -4,7 +4,7 @@ date: '2019-08-18'
 tags:
   - proyectomedios
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+[](https://www.musicaparalatransformacion.com/musica)Acordes: G, Dm7, Eb, Bb, F, C, Dm.
 
 Una vez más me encuentro aquí\
 vine a ver el sol salir\
@@ -19,16 +19,16 @@ el horizonte despejándose.\
 Tengo el deseo de avanzar\
 pienso en ayudar a los demás.   
 
-_Estribillo:_\
-_Siento como mi mente brilla_\
-_un consejo que cobra vida_\
-_la experiencia que me hace ver_\
-_con claridad._   
+*Estribillo:*\
+*Siento como mi mente brilla*\
+*un consejo que cobra vida*\
+*la experiencia que me hace ver*\
+*con claridad.*   
 
-_Miro al cielo con alegría_\
-_una meta que se ilumina_\
-_es el fruto que logro al_\
-_reflexionar._   
+*Miro al cielo con alegría*\
+*una meta que se ilumina*\
+*es el fruto que logro al*\
+*reflexionar.*   
 
 Siento la calma de saber\
 que con certeza avanzaré\
@@ -43,15 +43,17 @@ el horizonte despejándose\
 Tengo el deseo de avanzar\
 pienso en ayudar a los demás.   
 
-_//: Siento como mi mente brilla_\
-_Un consejo que cobra vida_\
-_La experiencia que me hace ver_\
-_con claridad_   
+*//: Siento como mi mente brilla*\
+*Un consejo que cobra vida*\
+*La experiencia que me hace ver*\
+*con claridad*   
 
-_Miro al cielo con alegría_\
-_Una meta que se ilumina_\
-_Es el fruto que logro al reflexionar ://_   
+*Miro al cielo con alegría*\
+*Una meta que se ilumina*\
+*Es el fruto que logro al reflexionar ://*   
 
 Una vez más me encuentro aquí\
 vine a ver el sol salir\
 siento una brisa de tranquilidad.
+
+[Escucha y descarga las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)
