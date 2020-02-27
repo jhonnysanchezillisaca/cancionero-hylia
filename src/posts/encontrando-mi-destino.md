@@ -4,7 +4,7 @@ date: '2019-08-18'
 tags:
   - proyectomedios
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+Acordes: G, F, C, D, Am, Bm.
 
 Hay momentos en que pienso en mi destino\
 y no encuentro una dirección\
@@ -22,11 +22,13 @@ y comprendo\
 que si quiero\
 lo debo intentar   
 
-_Puertas tocaré_\
-_Deposito mi confianza en Dios_\
-_Puertas abriré_\
-_Con la llave de la oración_\
-_Puertas tocaré_\
-_Con pureza de intención_\
-_Puertas abriré_\
-_Voy sintiendo la confirmación_
+*Puertas tocaré*\
+*Deposito mi confianza en Dios*\
+*Puertas abriré*\
+*Con la llave de la oración*\
+*Puertas tocaré*\
+*Con pureza de intención*\
+*Puertas abriré*\
+*Voy sintiendo la confirmación*
+
+*[Escucha y descarga las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)*
