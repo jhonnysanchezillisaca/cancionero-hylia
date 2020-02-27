@@ -4,7 +4,7 @@ date: '2019-08-18'
 tags:
   - proyectomedios
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+Acordes: A, G, F, D.
 
 Si tú piensas\
 que tu barrio puede cambiar\
@@ -14,19 +14,19 @@ Si tu hablas\
 sobre cómo se logrará\
 algo mejor vendrá.  
 
-_//: Si te levantas_\
-_Algo mejor vendrá ://_  
+*//: Si te levantas*\
+*Algo mejor vendrá ://*  
 
-_Estribillo:_\
-_Buenos pensamientos_\
-_inspiran las palabras_\
-_que moldearán_\
-_tu forma de actuar._   
+*Estribillo:*\
+*Buenos pensamientos*\
+*inspiran las palabras*\
+*que moldearán*\
+*tu forma de actuar.*   
 
-_Y buenas acciones_\
-_inspiran corazones_\
-_que cambiarán_\
-_a nuestra sociedad._   
+*Y buenas acciones*\
+*inspiran corazones*\
+*que cambiarán*\
+*a nuestra sociedad.*   
 
 rap:\
 Las palabras tienen más poder que la espada\
@@ -46,10 +46,10 @@ Si tu hablas\
 sobre cómo se logrará\
 algo mejor vendrá.  
 
-_//: Si te levantas_\
-_Algo mejor vendrá ://_  
+*//: Si te levantas*\
+*Algo mejor vendrá ://*  
 
-_//:Estribillo://_  
+*//:Estribillo://*  
 
 rap:\
 Las acciones tienen un papel importante\
@@ -61,7 +61,9 @@ afianzan lo que dices y quien eres en verdad.\
 Inspiradas en la divinidad\
 su efecto perdura por la eternidad.   
 
-_//:Estribillo://_  
+*//:Estribillo://*  
 
-_//: Si te levantas_\
-_Algo mejor vendrá ://_
+*//: Si te levantas*\
+*Algo mejor vendrá ://*
+
+*[Escucha y descarga las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)*
