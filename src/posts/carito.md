@@ -4,7 +4,7 @@ date: '2019-08-18'
 tags:
   - proyectomedios
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+[](https://www.musicaparalatransformacion.com/musica)Acordes: G, Bm, C, D, B7, Em.
 
 Una mañana Carito\
 la brisa fresca sintió\
@@ -21,10 +21,10 @@ recuerda su tempestad\
 se siente como una balsa\
 que naufraga en el mar.   
 
-_//: Sopla el viento (ay Carito)_\
-_Direcciona (de a poquito)_\
-_No estás sola (ten confianza)_\
-_Persevera. (ay Carito) ://_   
+*//: Sopla el viento (ay Carito)*\
+*Direcciona (de a poquito)*\
+*No estás sola (ten confianza)*\
+*Persevera. (ay Carito) ://*   
 
 La fuerza viene del viento\
 y no de su capitán\
@@ -36,7 +36,9 @@ ve todo con claridad\
 con confianza y esfuerzo\
 su destino forjará.   
 
-_//: Sopla el viento ( ay Carito)_\
-_Direcciona (de a poquito)_\
-_No estás sola (ten confianza)_\
-_Persevera. (ay Carito) ://_
+*//: Sopla el viento ( ay Carito)*\
+*Direcciona (de a poquito)*\
+*No estás sola (ten confianza)*\
+*Persevera. (ay Carito) ://*
+
+*[Escucha y descarga todas las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)*
