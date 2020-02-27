@@ -3,8 +3,9 @@ title: Avanzo con valor
 date: '2019-08-18'
 tags:
   - proyectomedios
+  - avanzoconvalor
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+[](https://www.musicaparalatransformacion.com/musica)Acordes: D, G, A, D/F#, Em, Bm.
 
 Hay corazones que al igual que yo\
 anhelan descubrir\
@@ -16,11 +17,11 @@ irradian su calor\
 siento el deseo de caminar\
 se enciende mi corazón.   
 
-_Estribillo:_\
-_Un camino ya puedo ver_\
-_y logro comprender_\
-_que el servicio a los demás_\
-_es mi razón de ser._   
+*Estribillo:*\
+*Un camino ya puedo ver*\
+*y logro comprender*\
+*que el servicio a los demás*\
+*es mi razón de ser.*   
 
 Hoy avanzo con valor\
 siento esperanza en mi interior\
@@ -32,4 +33,6 @@ y pruebas que enfrentar\
 con esfuerzo y voluntad\
 las puedo superar.  
 
-_//:Estribillo://_
+*//:Estribillo://*
+
+*[Escucha y descarga todas las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)*
