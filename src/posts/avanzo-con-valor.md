@@ -5,7 +5,7 @@ tags:
   - proyectomedios
   - avanzoconvalor
 ---
-[Haz clic para escuchar](https://www.musicaparalatransformacion.com/musica)
+[](https://www.musicaparalatransformacion.com/musica)Acordes: D, G, A, D/F#, Em, Bm.
 
 Hay corazones que al igual que yo\
 anhelan descubrir\
@@ -34,3 +34,5 @@ con esfuerzo y voluntad\
 las puedo superar.  
 
 *//:Estribillo://*
+
+*[Escucha y descarga todas las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)*
