@@ -5,6 +5,8 @@ date: 2019-08-19T05:31:13.336Z
 tags:
   - proyectomedios
 ---
+Acordes: G, Am, F, Dm, C.
+
 Ella llegó\
 su mirada reflejaba una\
 dulce ilusión\
@@ -59,3 +61,5 @@ hay retoños que cuidar ://\
 a tu alrededor\
 a tu alrededor\
 a tu alrededor.
+
+[Escucha y descarga toda las canciones de Proyecto Medios.](https://www.musicaparalatransformacion.com/musica)
