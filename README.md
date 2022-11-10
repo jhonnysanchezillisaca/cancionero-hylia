@@ -3,6 +3,8 @@
 
 ## Getting started
 
+This projects uses https://github.com/andybelldesign/hylia
+
 ## Terminal commands
 
 ### Serve the site locally
